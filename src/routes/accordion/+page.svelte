@@ -9,6 +9,10 @@
 	]
 </script>
 
+<svelte:head>
+	<title>Accordion</title>
+</svelte:head>
+
 <Accordion collapse --accordion-width="60ch">
 	{#each items as item, i}
 		<AccordionItem open={i === 0}>

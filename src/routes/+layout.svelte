@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Svelte Components</title>
+	<title>Svelte Components | Home</title>
 </svelte:head>
 
 <header>
